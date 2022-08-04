@@ -3,7 +3,7 @@
 # https://gohugo.io/getting-started/configuration #
 ###################################################
 
-baseURL = "https://texify.qufy.me" # website root path
+baseURL = "https://sami-ipeit.netlify.app/" # website root path
 disqusShortname = "Comment"               # disqus shortcode
 enableGitInfo = false              # retrieve last modified date from git commits
 enableRobotsTXT = true             # /robots.txt
