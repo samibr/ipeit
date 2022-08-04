@@ -13,7 +13,7 @@ languageCode = "fr"                # content language
 paginate = 5                       # number of posts each page
 rssLimit = 10                      # maximum items in rss feeds
 theme = "hugo-theme-texify"        # theme directory name
-title = "Mathématiques pour Classes SM IPEIT"                   # website title
+title = "Sami-Math@IPEIT"                   # website title
 
 [author]
 email = "me@example.com" # your email
